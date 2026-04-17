@@ -1,0 +1,7 @@
+#faça um programa que leia um numero inteiro e mostre na tela o seu sucessor e seu antecessor.
+from traceback import print_exc
+n1 = int(input('digite um numero: '))
+a = n1 - 1
+b = n1 + 1
+print('o seu numero antecessor e : {}'.format(a))
+print('O seu sucessor e {}'.format( b ))

@@ -1,0 +1,14 @@
+#Escreva um programa que leia um valor em metros e o exiba convertido em centimentros e milimetros
+print('Aperte qualquer tecla  para calcular os metros ')
+input()
+n1 = int(input('digite um numero de metros: '))
+
+cm = n1 * 100
+mm = cm * 10
+
+print('O valor do centimentros e',cm, 'e o milimetros e',mm )
+
+
+
+
+

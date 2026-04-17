@@ -1,0 +1,25 @@
+
+import random
+
+
+# 1. Leitura dos nomes
+n1 = input('Primeiro aluno: ')
+n2 = input('Segundo aluno: ')
+n3 = input('Terceiro aluno: ')
+n4 = input('Quarto aluno: ')
+
+#2. Agrupa na lista
+lista = [n1, n2, n3, n4]
+
+# 3. Embaralha a ordem (O "tempero" do sorteio)
+random.shuffle(lista)
+
+print('\n--- ORDEM DE APRESENTAÇÃO ---')
+
+# 4. O "Automático": O 'for' percorre a lista e o 'enumerate' cria a numeração
+for ordem, nome in enumerate(lista, start=1):
+    print(f'{ordem}º lugar: {nome}')
+
+
+
+a

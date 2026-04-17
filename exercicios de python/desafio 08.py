@@ -1,0 +1,9 @@
+# desenvolva um programa que mede as duas notas do aluno e coloca a media
+(print('aperte qualquer tecla para calcular a sua media'))
+input()
+
+
+p1 = int(input('digite a sua nota p1:  '))
+p2 = int(input('digite a sua nota da p2: '))
+m = (p1 + p2) / 2
+print('A sua media e' ,m)
