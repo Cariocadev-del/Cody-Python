@@ -1,105 +1,99 @@
-<div align="center">
+<h1 align="center">Bem-vindo ao GitHub do Carioca_dev <code>&lt;/&gt;</code></h1>
 
-<img src="./assets/banner.svg" width="100%" alt="Banner animado"/>
+<p align="center">
+  <img src="./assets/banner.svg" width="100%" alt="Banner do Carioca_dev"/>
+</p>
 
-<br>
+<p align="center">
+  <a href="https://github.com/Carioca-dev">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FF2A2A&center=true&vCenter=true&width=640&lines=Transformando+ideias+em+c%C3%B3digo+%F0%9F%9A%80;Aprendendo+algo+novo+todo+dia+%F0%9F%94%A5;Bora+construir+coisas+incr%C3%ADveis+%E2%9A%A1" alt="Frases animadas"/>
+  </a>
+</p>
 
-<a href="https://github.com/SEU-USUARIO">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FF2A2A&center=true&vCenter=true&width=640&lines=Transformando+ideias+em+c%C3%B3digo+%F0%9F%9A%80;Aprendendo+algo+novo+todo+dia+%F0%9F%94%A5;Bora+construir+coisas+incr%C3%ADveis+%E2%9A%A1" alt="Frases"/>
-</a>
+<p align="center">
+  <a href="https://github.com/Carioca-dev"><img src="https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/SEU-LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/SEU-INSTAGRAM"><img src="https://img.shields.io/badge/INSTAGRAM-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/></a>
+  <a href="mailto:seuemail@exemplo.com"><img src="https://img.shields.io/badge/E--MAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=ff1a1a" alt="E-mail"/></a>
+</p>
 
-<br>
+<p align="center"><img src="./assets/divider.svg" width="100%" alt="divisor"/></p>
 
-<img src="https://img.shields.io/badge/Rio_de_Janeiro-Brasil-ff1a1a?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Localização"/>
-<img src="https://img.shields.io/badge/Status-Evoluindo_todo_dia-8b0000?style=for-the-badge" alt="Status"/>
-<img src="https://komarev.com/ghpvc/?username=SEU-USUARIO&label=Visitas&color=ff1a1a&style=for-the-badge" alt="Visitas"/>
+<h2 align="center">👤 Sobre mim</h2>
 
-<br><br>
-
-**[🙋 Sobre](#-sobre-mim)** &nbsp;•&nbsp;
-**[🛠️ Skills](#️-skills)** &nbsp;•&nbsp;
-**[🚀 Projetos](#-projetos)** &nbsp;•&nbsp;
-**[📊 Stats](#-github-stats)** &nbsp;•&nbsp;
-**[📫 Contato](#-contato)**
-
-<img src="./assets/divider.svg" width="100%" alt="divisor"/>
-
-</div>
-
-## 🙋 Sobre mim
-
-<div align="center">
+<p align="center">
   <img src="./assets/terminal.svg" width="90%" alt="Terminal animado"/>
-</div>
+</p>
 
-<br>
+<table align="center">
+  <tr>
+    <td align="center" width="62%">
+      <p>
+        Olá! Eu sou o <b>Carioca_dev</b> 👋<br>
+        Estou aprendendo programação e gosto de criar coisas com código,
+        desde páginas web até scripts em Python.
+        Sempre em busca de evoluir um pouco mais a cada dia.
+      </p>
+      <p>
+        🌴 Carioca de coração<br>
+        💻 Estudando desenvolvimento web e Python<br>
+        🔀 Versionando tudo com Git<br>
+        🚀 Em busca de novos desafios
+      </p>
+    </td>
+    <td align="center" width="38%">
+      <img src="./assets/avatar.jpg" width="190" alt="Avatar do Carioca_dev"/>
+    </td>
+  </tr>
+</table>
 
-- 🔭 Atualmente trabalhando em **TECHNEWS**
-- 🌱 Estudando **estiu aprendendo nodejs**
-- 🎯 Objetivo: **Trabalhar para fora do brasil**
-- 💬 Pergunte-me sobre **Git, JavaScript, Python, HTML e CSS**
+<p align="center"><img src="./assets/divider.svg" width="100%" alt="divisor"/></p>
 
-<div align="center"><img src="./assets/divider.svg" width="100%" alt="divisor"/></div>
+<h2 align="center">⚙️ Tecnologias</h2>
 
-## 🛠️ Skills
+<p align="center">
+  <img src="./assets/skills.svg" width="90%" alt="Barras de skills animadas"/>
+</p>
 
-<div align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JAVASCRIPT-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/PYTHON-0d1117?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python"/>
+  <img src="https://img.shields.io/badge/GIT-0d1117?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"/>
+  <img src="https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS_CODE-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" alt="VS Code"/>
+</p>
 
-<img src="./assets/skills.svg" width="90%" alt="Barras de skills animadas"/>
+<p align="center"><img src="./assets/divider.svg" width="100%" alt="divisor"/></p>
 
-<br><br>
+<h2 align="center">📊 Estatísticas</h2>
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Carioca-dev&show_icons=true&hide_border=true&theme=github_dark&title_color=ff2a2a&icon_color=ff2a2a" alt="Estatísticas do GitHub"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carioca-dev&layout=compact&hide_border=true&theme=github_dark&title_color=ff2a2a" alt="Linguagens mais usadas"/>
+</p>
 
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Carioca-dev&theme=github-dark-blue&hide_border=true&ring=ff2a2a&fire=ff5a1a&currStreakLabel=ff2a2a" alt="Sequência de contribuições"/>
+</p>
 
-<div align="center"><img src="./assets/divider.svg" width="100%" alt="divisor"/></div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Carioca-dev&theme=github-dark&hide_border=true&color=ff2a2a&line=ff2a2a&point=ffffff&area=true&area_color=ff2a2a" alt="Gráfico de contribuições"/>
+</p>
 
-## 🚀 Projetos
+<p align="center"><img src="./assets/divider.svg" width="100%" alt="divisor"/></p>
 
-| Projeto | Descrição | Tecnologias |
-| :--- | :--- | :--- |
-| 🔥 [**Nome do Projeto 1**](https://github.com/SEU-USUARIO/projeto-1) | Breve descrição do que ele faz | `HTML` `CSS` `JavaScript` |
-| 🔥 [**Nome do Projeto 2**](https://github.com/SEU-USUARIO/projeto-2) | Breve descrição do que ele faz | `Python` |
-| 🔥 [**Nome do Projeto 3**](https://github.com/SEU-USUARIO/projeto-3) | Breve descrição do que ele faz | `JavaScript` `Git` |
+<h2 align="center">📫 Contato</h2>
 
-> 💡 Veja todos os meus repositórios no [meu perfil](https://github.com/SEU-USUARIO?tab=repositories).
+<p align="center">
+  <a href="https://github.com/Carioca-dev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/Carioca_dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:gustavofigueriedo@gmail.com"><img src="https://img.shields.io/badge/E--mail-ff1a1a?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/></a>
+</p>
 
-<div align="center"><img src="./assets/divider.svg" width="100%" alt="divisor"/></div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Carioca-dev&label=Visitas&color=ff1a1a&style=for-the-badge" alt="Visitas"/>
+</p>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&hide_border=true&bg_color=0d0000&title_color=ff2a2a&icon_color=ff2a2a&text_color=ffffff" alt="Estatísticas"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&hide_border=true&bg_color=0d0000&title_color=ff2a2a&text_color=ffffff" alt="Linguagens mais usadas"/>
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO&background=0d0000&ring=ff2a2a&fire=ff5a1a&currStreakLabel=ff2a2a&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ff2a2a&dates=aaaaaa&stroke=7f0000&border=7f0000" alt="Streak"/>
-
-</div>
-
-<div align="center"><img src="./assets/divider.svg" width="100%" alt="divisor"/></div>
-
-## 📫 Contato
-
-<div align="center">
-
-<a href="https://github.com/Cariocadev-del/Cody-Python/blob/main/exercicios%20de%20python/desafio%2014.py"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/Carioca_dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:gustavofiguereido@gmail.com@exemplo.com"><img src="https://img.shields.io/badge/E--mail-ff1a1a?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/></a>
-
-<br><br>
-
-⭐ *Curtiu algum projeto? Deixe uma estrela no repositório!* ⭐
-
-<img src="./assets/footer.svg" width="100%" alt="Rodapé animado"/>
-
-</div>
+<p align="center"><img src="./assets/footer.svg" width="100%" alt="Rodapé animado"/></p>
